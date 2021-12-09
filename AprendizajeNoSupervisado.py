@@ -83,3 +83,4 @@ if __name__ == "__main__":
     print('*****RECORRIDO*****')
     print('Individual: ', pop[0])
     print('Suma de recorrido: ', evalPosicion(pop[0]))
+       
